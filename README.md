@@ -27,14 +27,14 @@
 #### 🛠 Back-end
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,laravel,express,python" />
+    <img src="https://skillicons.dev/icons?i=js,php,laravel,express,py,django,mysql,sqlite,java" />
   </a>
 </p>
 
 #### 🔧 Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,postman,vscode,figma,github,heroku" />
+    <img src="https://skillicons.dev/icons?i=vercel,postman,vscode,figma,github,anaconda,bash,netlify,nginx,ps,sublime,stackoverflow,gcp" />
   </a>
 </p>
 
