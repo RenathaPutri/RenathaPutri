@@ -8,13 +8,6 @@
 
 <h4 align="center"> Front-End Developer <a href="/">|</a> UI/UX Designer <a href="/">|</a> Graphic Designer </h4>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RenathaPutri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/RenathaPutri">
-    <img src="https://img.shields.io/github/followers/RenathaPutri?label=followers&style=social"/>
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ### About Me
@@ -27,14 +20,14 @@
 #### 🎨 Front-end
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,wordpress,joomla,bootstrap,tailwind,react,alpinejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,wordpress,bootstrap,tailwind,react,alpinejs" />
   </a>
 </p>
 
 #### 🛠 Back-end
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,laravel,filament,express,python" />
+    <img src="https://skillicons.dev/icons?i=js,php,laravel,express,python" />
   </a>
 </p>
 
