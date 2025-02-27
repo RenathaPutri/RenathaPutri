@@ -12,7 +12,7 @@
 
 ### About Me
 - 👧 My name is Renatha Putri  
-- 🏡 Live in Sidoarjo, Indonesia  
+- 🏡 Live in Surabaya, Indonesia  
 - 🤸‍♀️ 17 years old  
 
 ### Tech Stack 🚀
