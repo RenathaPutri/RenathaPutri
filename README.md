@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center" style="color:#0d6efd;">
+  <span>Hi</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+  <span style="color:#fafafa;">, I'm </span>
+  <a href="https://github.com/RenathaPutri" style="color:#0d6efd;text-decoration: none;">
+    <span>Renatha Putri</span>
+  </a>
+</h1>
 
-<!--
-**RenathaPutri/RenathaPutri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center"> Front-End Developer <a href="/">|</a> UI/UX Designer <a href="/">|</a> Graphic Designer </h4>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RenathaPutri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/RenathaPutri">
+    <img src="https://img.shields.io/github/followers/RenathaPutri?label=followers&style=social"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+### About Me
+- 👧 My name is Renatha Putri  
+- 🏡 Live in Sidoarjo, Indonesia  
+- 🤸‍♀️ 17 years old  
+
+### Tech Stack 🚀
+
+#### 🎨 Front-end
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,wordpress,joomla,bootstrap,tailwind,react,alpinejs" />
+  </a>
+</p>
+
+#### 🛠 Back-end
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,php,laravel,filament,express,python" />
+  </a>
+</p>
+
+#### 🔧 Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,postman,laragon,xampp,vscode,figma,github,powerdesigner,netbeans,heroku" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### GitHub Stats 📊
+| GitHub Stats |
+| --- |
+| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RenathaPutri&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> |
