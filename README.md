@@ -34,7 +34,7 @@
 #### 🔧 Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,postman,laragon,xampp,vscode,figma,github,powerdesigner,netbeans,heroku" />
+    <img src="https://skillicons.dev/icons?i=vercel,postman,vscode,figma,github,heroku" />
   </a>
 </p>
 
