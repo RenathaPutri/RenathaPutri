@@ -1,7 +1,7 @@
-<h1 align="center" style="color:#0d6efd;">
+<h1 align="center" style="color:#FFD700;">
   <span>Hi</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   <span style="color:#fafafa;">, I'm </span>
-  <a href="https://github.com/RenathaPutri" style="color:#0d6efd;text-decoration: none;">
+  <a href="https://github.com/RenathaPutri" style="color:#FFD700;text-decoration: none;">
     <span>Renatha Putri</span>
   </a>
 </h1>
@@ -43,4 +43,4 @@
 ### GitHub Stats 📊
 | GitHub Stats |
 | --- |
-| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RenathaPutri&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> |
+| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RenathaPutri&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFD700" /> |
