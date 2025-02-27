@@ -1,10 +1,11 @@
 <h1 align="center">
   <span style="color:#FFD700;">Hi</span> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   <span style="color:#fafafa;">, I'm </span>
-  <a href="https://github.com/RenathaPutri" style="color:#FFD700;text-decoration: none;">
-    <span style="color:#FFD700;">Renatha Putri</span>
+  <a href="https://github.com/RenathaPutri" style="color:#FFD700; text-decoration: none;">
+    Renatha Putri
   </a>
 </h1>
+
 
 <h4 align="center" style="color:#FFD700;"> Front-End Developer <a href="/">|</a> UI/UX Designer <a href="/">|</a> Graphic Designer </h4>
 
