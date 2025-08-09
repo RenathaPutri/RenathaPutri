@@ -24,9 +24,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=RenathaPutri&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RenathaPutri&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenathaPutri&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RenathaPutri&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RenathaPutri&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenathaPutri&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### ✍️ Quote
 <blockquote class="custom-quote">
