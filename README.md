@@ -28,23 +28,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RenathaPutri&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenathaPutri&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<style>
-    .custom-quote {
-        border-left: 6px solid #0d6efd; 
-        background: #2d2d2d;            
-        color: #fafafa;                 
-        padding: 16px 24px;
-        margin: 24px 0;
-        font-size: 1.1em;
-        font-style: italic;
-        border-radius: 8px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-    }
-</style>
-
+### ✍️ Quote
 <blockquote class="custom-quote">
     "ur vibe attracts ur tribe, so stop explaining urself to strangers."
     <br>
