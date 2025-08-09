@@ -5,7 +5,7 @@
     <a href="https://github.com/RenathaPutri" style="color:#0d6efd; text-decoration: none;">
         Renatha Putri
     </a>
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/Assets/Developer.gif" width="29px" alt="">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="29px" alt="">
 </h1>
 
 
