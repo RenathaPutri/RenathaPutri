@@ -34,5 +34,5 @@
 <blockquote class="custom-quote">
     "ur vibe attracts ur tribe, so stop explaining urself to strangers."
     <br>
-    <span style="color:#0d6efd;">— Renatha Putri</span>
+    <span style="color:#0d6efd;">- Renatha Putri</span>
 </blockquote>
